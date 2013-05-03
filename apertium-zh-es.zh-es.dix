@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionary>
+	
+	<sdefs>
+		
+	<sdef n="NN"/>
+	<sdef n="VV"/>
+	<sdef n="CD"/>
+	<sdef n="PN"/>
+	<sdef n="acr" 	c="Acronym"/> 
+    <sdef n="predet" 	c="Pre-determiner"/> 
+    <sdef n="detnt" 	c="Determiner neuter(?)"/> 
+    <sdef n="loc" 	c="Location (not locative!)"/> 
+    <sdef n="ant" 	c="Anthroponym"/> 
+    <sdef n="al" 	c="Other (altre)"/> 
+    <sdef n="cog" 	c="Cognomen (family name)"/> 
+    <sdef n="atn" 	c="Atonic"/> 
+    <sdef n="enc" 	c="Enclitic"/> 
+    <sdef n="pro" 	c="Proclitic"/> 
+    <sdef n="tn" 	c="Tonic"/> 
+    <sdef n="n" 	c="Noun"/> 
+    <sdef n="np" 	c="Proper noun"/> 
+    <sdef n="adj" 	c="Adjective"/> 
+    <sdef n="f" 	c="Feminine"/> 
+    <sdef n="m" 	c="Masculine"/> 
+    <sdef n="mf" 	c="Masculine / feminine"/> 
+    <sdef n="sg" 	c="Singular"/> 
+    <sdef n="pl" 	c="Plural"/> 
+    <sdef n="adv" 	c="Adverb"/> 
+    <sdef n="preadv" 	c="Preadverb"/> 
+    <sdef n="pr" 	c="Preposition"/> 
+    <sdef n="prn" 	c="Pronoun"/> 
+    <sdef n="rel" 	c="Relative"/> 
+    <sdef n="nn" 	c="Inanimate"/> 
+    <sdef n="an" 	c="Animate / inanimate"/> 
+    <sdef n="aa" 	c="Animate"/> 
+    <sdef n="ind" 	c="Indefinite"/> 
+    <sdef n="itg" 	c="Interrogative"/> 
+    <sdef n="det" 	c="Determiner"/> 
+    <sdef n="dem" 	c="Demonstrative"/> 
+    <sdef n="def" 	c="Definite"/> 
+    <sdef n="cnjcoo" 	c="Co-ordinating conjunction"/> 
+    <sdef n="cnjsub" 	c="Subordinating conjunction"/> 
+    <sdef n="cnjadv" 	c="Adverbial conjunction"/> 
+    <sdef n="nt" 	c="Neuter"/> 
+    <sdef n="vbser" 	c="Verb 'to be'"/> 
+    <sdef n="vbhaver" 	c="Verb 'to have'"/> 
+    <sdef n="vblex" 	c="Verb"/> 
+    <sdef n="vbmod" 	c="Modal verb"/> 
+    <sdef n="inf" 	c="Infinitive"/> 
+    <sdef n="ger" 	c="Gerund"/> 
+    <sdef n="pp" 	c="Past participle"/> 
+    <sdef n="pri" 	c="Present indicative"/> 
+    <sdef n="p1" 	c="First person"/> 
+    <sdef n="p2" 	c="Second person"/> 
+    <sdef n="p3" 	c="Third person"/> 
+    <sdef n="pii" 	c="Imperfect indicative"/> 
+    <sdef n="ifi" 	c="Preterite indicative"/> 
+    <sdef n="fti" 	c="Future indicative"/> 
+    <sdef n="cni" 	c="Conditional"/> 
+    <sdef n="prs" 	c="Present subjunctive"/> 
+    <sdef n="pis" 	c="Imperative subjunctive"/> 
+    <sdef n="fts" 	c="Future subjunctive"/> 
+    <sdef n="imp" 	c="Imperative"/> 
+    <sdef n="pos" 	c="Possessive"/> 
+    <sdef n="sp" 	c="Singular / plural"/> 
+    <sdef n="ref" 	c="Reflexive"/> 
+    <sdef n="sup" 	c="Superlative"/> 
+    <sdef n="ord" 	c="Ordinal"/> 
+    <sdef n="qnt" 	c="Quantifier"/> 
+    <sdef n="num" 	c="Numeral"/> 
+    <sdef n="pron" 	c="Pronominal"/> 
+    <sdef n="ij" 	c="Interjection"/> 
+    <sdef n="sent" 	c="Sentence marker"/> 
+    <sdef n="cm" 	c="Comma"/> 
+    <sdef n="lpar" 	c="Left parenthesis"/> 
+    <sdef n="rpar" 	c="Right parenthesis"/> 
+    <sdef n="lquest" 	c="Left question mark"/> 
+    <sdef n="web" 	c="URL address"/> 
+    <sdef n="apos" 	c="Apostrophe"/> 
+    <sdef n="percent" 	c="Percentage"/> 
+    <sdef n="time" 	c="Time"/> 
+    <sdef n="guio" 	c="Hyphen"/> 
+    <sdef n="past" 	c="Past"/> 
+    <sdef n="sep" 	c="Separable verb"/> 
+    <sdef n="sint" 	c="Synthetic"/> 
+    <sdef n="email" 	c="Email"/> 
+    <sdef n="obj" 	c="Object"/> 
+    <sdef n="subj" 	c="Subject"/> 
+    <sdef n="subs" 	c="Substantive"/> 
+    <sdef n="pprs" 	c="Present participle"/> 
+    <sdef n="gen" 	c="Genitive"/> 
+    <sdef n="vbdo" 	c="The verb 'to do'"/> 
+    <sdef n="comp" 	c="Comparative"/> 
+    <sdef n="pres" 	c="Present tense (indicative)"/> 
+    <sdef n="vaux" 	c="Auxiliary verb"/> 
+    <sdef n="ND" 	c="Number to be determined"/> 
+    <sdef n="GD" 	c="Gender to be determined"/> 
+    <sdef n="mon" 	c="Currency / valuta"/> 
+  </sdefs>
+
+	<section id="main" type="standard">	
+		
+	   <e><p><l>苹果<s n="NN"/></l><r>manzana<s n="n"/><s n="f"/><s n="sg"/></r></p></e> 
+		
+		<e><p><l>买<s n="VV"/></l><r>comprar<s n="vblex"/></r></p></e>
+		
+		<e><p><l>一个<s n="CD"/></l><r>un<s n="num"/></r></p></e> <!-- one "piece" -->
+		
+		<e><p><l>我<s n="PN"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+		
+		<e><p><l>你<s n="PN"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+		
+		<e><p><l>我们<s n="PN"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>
+		
+		<e><p><l>一辆<s n="CD"/></l><r>un<s n="num"/></r></p></e> <!--one car-->
+		
+		<e><p><l>车<s n="NN"/></l><r>coche<s n="n"/><s n="m"/><s n="sg"/></r></p></e> 
+		
+		
+	</section>
+	
+	
+
+</dictionary> 
+		
+		
+			
